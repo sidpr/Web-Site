@@ -25,6 +25,7 @@
     	</xsl:otherwise>
     </xsl:choose>
     </td></tr></tbody></table>
+    тест
     </xsl:if>
 	<!-- / подкатегории -->
 	<!-- товары -->
